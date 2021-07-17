@@ -1,0 +1,2 @@
+# Ranch-Management-Software
+Our team developed the drone enhanced ranch management software. The software was able to track livestock vitality and location, monitor feeding and watering systems, and monitor property status with the help of the drone(s).  Our team used Java 8 and Scenebuilder to develop the software. We created the Class diagrams, Sequence diagrams, Rapid prototypes, and other diagrams to assist us in developing the software. Also, different design patterns like Composite, Visitor, Adapter were used to develop the project.

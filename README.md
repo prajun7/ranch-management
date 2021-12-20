@@ -35,4 +35,4 @@ while the 'Launch Simulator' will display a visual simulation of the actions bei
 The drone can be sent to visit a component by selecting the component from the farm list and clicking
 the 'Visit item/Item Container' select button, then launching either the drone or a simulator by clicking on the respective action buttons ('Launch Simulator' & 'Launch Drone'). The drone will fly from the Command Center to the selected component. The drone can also be sent to scan the whole farm by clicking the 'Scan Farm' select button, then launching either the Drone or the simulation. The drone will perform a flight over the entire farm before returning to the Command Center.
 
-**It is not an individual project. Thank you to all the team members for your contribution.**
+*It is not an individual project. Thank you to all the team members for your contribution.*

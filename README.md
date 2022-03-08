@@ -1,4 +1,4 @@
-# Ranch-Management-Software
+# Ranch Management
 
 Our team developed the drone-enhanced ranch management software. The software was able to track livestock vitality and location, monitor feeding and watering systems, and monitor property status with the help of the drone(s).
 

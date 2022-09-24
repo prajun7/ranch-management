@@ -4,11 +4,9 @@ Our team developed the drone-enhanced ranch management software. The software wa
 
 Our team used Java 8 and Scenebuilder to develop the software. We created the Class diagrams, Sequence diagrams, Rapid prototypes, and other diagrams to assist us in developing the software. Also, different design patterns like Composite, Visitor, Adapter were used to develop the project.
 
-Design Doc Link:
-https://drive.google.com/file/d/1hOsAdkoVGHqz2agOgzKiSVzcpw8SjaFU/view?usp=sharing
-
-Original Gitlab Link:
-https://gitlab.com/cs420Group7/assignment03.git 
+#### Links:
+- [Design Doc](https://drive.google.com/file/d/1hOsAdkoVGHqz2agOgzKiSVzcpw8SjaFU/view?usp=sharing)
+- [Original Gitlab](https://gitlab.com/cs420Group7/assignment03.git)
 
 I reuploaded the files into my GitHub as our original files were in GitLab and were private. 
 
